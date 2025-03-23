@@ -70,8 +70,8 @@ Avg Rating = AVERAGE(Calls[Satisfaction Rating])
 - Use data bars to show revenue distribution.
 - Apply color coding for easier visualization.
 
-📸 Screenshots
-*(Include dashboard screenshots here)*
+
+
 
 
 
